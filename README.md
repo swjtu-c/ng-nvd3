@@ -1,1 +1,1 @@
-# ng-nvd3
+# ng2-nvd3
